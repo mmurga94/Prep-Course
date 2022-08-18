@@ -222,7 +222,7 @@ function doWhile(numero) {
   var numeroAumentado = numero;
   do{
     numeroAumentado = numeroAumentado + 5;
-  }while(numero+(5*8) > numeroAumentado);
+  }while(numero + (5*8) > numeroAumentado);
 
   return numeroAumentado;
 
